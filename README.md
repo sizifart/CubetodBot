@@ -12,7 +12,7 @@
 ## Settings data file
 | Setting                      | Description                                                                                    |
 |------------------------------|------------------------------------------------------------------------------------------------|
-| query_id        | fill the `data.txt` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)                      |
+| query_id        | fill the `data` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)                      |
 
 # Config.json file explanation
 
