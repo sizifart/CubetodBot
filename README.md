@@ -1,0 +1,2 @@
+# CubetodBot
+CubetodBot App AutoClicker
