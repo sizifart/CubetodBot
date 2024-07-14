@@ -24,7 +24,7 @@
 
 ## Requirements
 - Python 3.9 (you can install it [here](https://www.python.org/downloads/release/python-390/)) 
-- Telegram API_ID and API_HASH (you can get them [here](https://my.telegram.org/auth))
+- How to Get Data (you can get them [here](#how-to-get-data))
   
 ## Auto Install/Run
 - Click on Install.bat to automatically install the required dependencies 
