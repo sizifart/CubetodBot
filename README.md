@@ -48,7 +48,7 @@
    2. Goto bot and open the apps
    3. Press `F12` on your keyboard to open devtool or right click on app and select `Inspect`
    4. Goto `console` menu and copy [javascript code](#javascript-command-to-get-telegram-data-for-desktop) then paste on `console` menu
-   5. If you don't receive error message, it means you successfully copy telegram data then paste on `data.txt` (1 line for 1 telegram data)
+   5. If you don't receive error message, it means you successfully copy telegram data then paste on `data file` (1 line for 1 telegram data)
    
    Example telegram data
 
