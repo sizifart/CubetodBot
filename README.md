@@ -70,6 +70,10 @@
 ```javascript
 copy(Telegram.WebApp.initData)
 ```
+ 
+# Telegram Channel
+
+✅ Channel for information and training on Telegram airdrop bots 🔷 Follow us on Telegram : [SIZIFAIRDROP](https://t.me/sizifairdrop)
 
 # Discussion
 
